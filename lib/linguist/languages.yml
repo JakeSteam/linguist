@@ -3803,6 +3803,7 @@ Lingo:
   - ".ls"
   tm_scope: source.lingo
   ace_mode: text
+  language_id: 79715894
 Linker Script:
   type: data
   extensions:
